@@ -36,6 +36,6 @@ The following command was run and generated the files in the `/example` director
 
   The script to run.
 
-- **/example**
+- **/example.zip**
 
   Holds example outputs from running the script against itself to produce RMD and HTML files.
